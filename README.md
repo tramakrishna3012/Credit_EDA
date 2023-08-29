@@ -1,8 +1,4 @@
-# Credit_EDA
-
-Sure, here is a sample README file for a Credit EDA data science project:
-
-Credit EDA Case Study
+# Credit EDA Case Study
 This repository contains the code and data for a case study on Exploratory Data Analysis (EDA) of credit risk data. The data set used in this case study is from the UCI Machine Learning Repository.
 
 Dataset
