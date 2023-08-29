@@ -4,6 +4,8 @@ This repository contains the code and data for a case study on Exploratory Data 
 Dataset
 The dataset contains information on 30,000 credit card applicants, including their age, income, debt, credit history, and other factors. The target variable is whether or not the applicant defaulted on their loan.
 
+Download dataset from given link: https://www.kaggle.com/datasets/venkatasubramanian/credit-eda-case-study
+
 EDA Process
 The EDA process in this case study includes the following steps:
 
